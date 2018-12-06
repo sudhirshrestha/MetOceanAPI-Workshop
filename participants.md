@@ -11,3 +11,4 @@
 - [Richard Carne](https://github.com/RichCarne) (UK Met Office) Attending remotely
 
 - [Ben Adams](https://github.com/benjwadams) (RPS ASA)
+- Sudhir Raj Shrestha (Esri)
